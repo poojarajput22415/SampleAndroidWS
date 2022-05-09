@@ -12,5 +12,4 @@ interface DataRepository {
     void updatedDataInList(int index,String value);
 
 
-
 }
