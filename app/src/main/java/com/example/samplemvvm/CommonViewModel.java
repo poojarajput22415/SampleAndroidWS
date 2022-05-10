@@ -20,7 +20,7 @@ public class CommonViewModel extends ViewModel implements LifecycleObserver {
         dataRepository.addDataInList(data);
     }
 
-//before commit 
+
 /*
     private void listenLifeCycleObserverOnResume(){
 
